@@ -35,4 +35,4 @@ tambien usamos lambda en un principio, pero debido al poco tiempo del reto solo 
 ## Team Members
 emorek2004@gmail.com
  
-## en el archivo adjuntamos un cuaderno de jupyter con la solución en funcionamiento
+##  adjuntamos un cuaderno de jupyter con la solución en funcionamiento
