@@ -11,7 +11,7 @@ Nuestra solución propuesta es un asistente de preguntas y respuestas basado en 
 ## Diagrama de Arquitectura
 
 ![Arquitectura LLM-LangChain-OpenAI-Pinecone](https://i.imgur.com/YJkUdk8.png)
-)
+
 
 En este diagrama, podemos observar cuatro componentes principales:
 Data-sources: Este es el lugar donde se almacenan todas las fuentes de datos que se utilizarán para entrenar el modelo de LLM y para generar respuestas. Aquí es donde se realiza la preprocesamiento y limpieza de los datos.
