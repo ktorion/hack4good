@@ -32,7 +32,5 @@ Una visión general de:
 Hemos utilizado Amazon SageMaker para entrenar el modelo, Amazon EC2 para la infraestructura y Amazon API Gateway para exponer nuestra API.
 tambien usamos lambda en un principio, pero debido al poco tiempo del reto solo tenemos disponible un demo de la solucion de indexacion de vectores y las respuestas aportadas por nuestro modelo llm de ultima generacion (gpt-4)
 
-## Team Members
-emorek2004@gmail.com
  
 ##  adjuntamos un cuaderno de jupyter con la solución en funcionamiento
